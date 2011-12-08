@@ -15,8 +15,7 @@ char second_read[183];
 int sentinel[] = {1,0,1,1,1};
 
 
-  
-  
+
 int check[5];
 int money1[16];
 int money2[16];
