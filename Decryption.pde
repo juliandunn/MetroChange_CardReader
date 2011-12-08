@@ -10,7 +10,6 @@ void read_track1()
     crd = digitalRead(card);
     data_ = digitalRead(data);
   }
-
   uint8_t zeros = 0;
   uint8_t parityok = 0;
 
